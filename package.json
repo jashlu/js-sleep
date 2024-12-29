@@ -1,5 +1,5 @@
 {
-  "name": "js-sleep-ms",
+  "name": "@lujosh98/js-sleep-ms",
   "version": "1.0.0",
   "description": "Simulate a delay in javascript",
   "main": "main.js",
