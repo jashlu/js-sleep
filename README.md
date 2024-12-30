@@ -1,3 +1,4 @@
+# js-sleep-ms
 > A lightweight utility function that pauses execution for a specified duration using promises. This simple sleep function can be used to add delays in asynchronous JavaScript code.
 
 #### Features
